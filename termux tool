@@ -1,0 +1,77 @@
+আসসলামু আলাইকুম 
+ 
+ আাশা করি ভালো আছেন 
+ ❣️❣️
+ 
+##১ম টুলল ##
+Termux Banner and Termux Security Tool
+apt update
+
+apt upgrade
+
+pkg install python
+
+pip install requests
+
+pip install mechanize
+
+pkg install git
+
+git clone https://github.com/Toxic-Noob/TBanner
+
+cd TBanner
+
+To Start the tool and Customize your Banner and Security, Type:
+
+python setup.py
+
+To Remove The Banner and Security From Termux, Type:
+
+python uninstall.py
+
+## ২য় টুলল ##
+
+Installation :
+
+git clone https://github.com/Bhai4You/Termux-Banner
+
+cd Termux-Banner
+
+chmod +x requirement.sh
+
+chmod +x t-ban.sh
+
+bash requirement.sh
+
+bash t-ban.sh
+
+Remove Logo :
+
+bash remove.sh
+
+Done !!!
+
+## ৩য় টুলল ##
+
+$ termux-setup-storage
+  
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ git clone https://github.com/Arij-arman/T-Remix
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh
+
+$ cd T-Remix
+
+$ ls
+
+$ bash remove-banner.sh
+

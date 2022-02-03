@@ -1,0 +1,24 @@
+ আসসলামু আলাইকুম 
+ 
+ আাশা করি ভালো আছেন 
+ 
+ 
+ ## ১ম টুলল ###
+ 
+ 
+Installation Commands :
+
+apt update -y
+
+apt upgrade -y
+
+pkg install python git -y
+
+git clone https://github.com/Toxic-Noob/ToxicMail
+
+cd ToxicMail
+
+pip install requests
+
+python mail.py
+

@@ -1,0 +1,15 @@
+আসসলামু আলাইকুম 
+ 
+ আাশা করি ভালো আছেন🤩🤩
+ ## ১ম টুলল ##
+ apt-get install python3
+ 
+ apt-get install git
+ 
+ git clone https://github.com/Shiddik295/CAM_HACKER_NHBD.git
+ 
+ pip3 install colorama
+ 
+ cd CAM_HACKER_NHBD
+ 
+ python3 CAMERA-HACK.py
