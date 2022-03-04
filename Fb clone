@@ -1,4 +1,34 @@
-1st 
+#=> OLD ACCOUNT CLONER TOOLS 2009/2010
+:: COMMAND ::
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip install requests
+$ pip install mechanize
+$ git clone https://github.com/MAHADI-143/2009
+$ cd 2009
+$ python2 2009.py
+* Username - MAHADI
+* Password - 2009
+
+#=> All In One Bangladeshi All Sim Facebook Cloner Tools [6-7-8-9-10-11]
+:: COMMANDS ::
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip install requests
+$ pip install mechanize
+$ git clone https://github.com/MAHADI-143/Mahadi-Pro
+$ cd Mahadi-Pro
+$ python2 Mahadi-Pro.py
+* Username :: Mahadi
+* Password :: Hasan
+
+#=> Cloner by AzimVau
 
 $ pkg update
 $ pkg upgrade
@@ -11,11 +41,6 @@ $ pkg install git
 $ git clone https://github.com/Azim-vau/Azim0.5.git
 $ cd Azim0.5
 $ python2 crack.py
-
-
-
-
-
 
 
 1st tool
